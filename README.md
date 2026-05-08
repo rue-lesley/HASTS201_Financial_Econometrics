@@ -1,2 +1,2 @@
 # HASTS201
-Application - Time Series
+Financial Econometrics
