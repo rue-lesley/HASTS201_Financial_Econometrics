@@ -1,2 +1,2 @@
-# HASTS201
+# HASTS201_Financial_Econometrics
 Financial Econometrics
